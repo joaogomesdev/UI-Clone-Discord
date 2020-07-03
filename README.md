@@ -1,36 +1,27 @@
-
-
-
-
-## run the project
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-## run the project
-
-<img src="assets\img\elevens logo ouro.jpg" title="Image" alt="ProjectImage">
-
 # UI Clone Discord
 
 > This project is a clone of the old Twitter interfacE (UI)
 
 # Demonstration - Web
 
-![Recordit GIF](https://recordit.co/4p37COVX3I.gif)
-
 > Website: <a href="https://uiclonediscordjoaogomes5.netlify.app" target="_blank">Hosted demonstration</a>.
 
 # Objective
 
 >The purpose of the project was to learn more about css and flexbox 
+
+
+# Run the project
+
+In the project directory, you can run:
+
+## `yarn start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
 # Future Updates 
 >MUpdate to the new interface
