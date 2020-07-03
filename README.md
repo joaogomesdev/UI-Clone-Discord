@@ -1,6 +1,6 @@
 # UI Clone Discord
 
-> This project is a clone of the old Twitter interfacE (UI)
+> This project is a UI clone of Discord, which is a well-known platform
 
 # Demonstration - Web
 
@@ -8,7 +8,7 @@
 
 # Objective
 
->The purpose of the project was to learn more about css and flexbox 
+>The prupose of the project was to learn more ReactJS together with Grid, Flexbox and Componentanization
 
 
 # Run the project
@@ -23,17 +23,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-# Future Updates 
->Update to the new interface
-
-
 ## Technologies
 # Going into more detail on code and technologies used
 
-- HTML
-<a href="https://devdocs.io/html/" target="_blank">`HTML Docs`</a>.
+- ReacJS <a href="https://reactjs.org/docs/getting-started.html" target="_blank">`ReactJS Docs`</a>.
 
-- CSS for sterilization <a href="https://devdocs.io/css/" target="_blank">`CSS Docs`</a>.
+- Styled Components for sterilization <a href="https://styled-components.com/docs" target="_blank">`Styled Components Docs`</a>.
 
 
 ### Clone
